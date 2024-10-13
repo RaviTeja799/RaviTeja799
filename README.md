@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **SINK**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RaviTeja799](https://github.com/RaviTeja799)
+- 👨‍💻 All of my projects are available at [https://github.com/RaviTeja799?tab=repositories)
 
 - 📝 I regularly write articles on [https://ravitejabhagavatula.me/](https://ravitejabhagavatula.me/)
 
