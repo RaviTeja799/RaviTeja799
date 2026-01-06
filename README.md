@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaviTeja799?tab=repositories)
 
-- 📝 I regularly write articles on [https://ravitejabhagavatula.me/](https://ravitejabhagavatula.me/)
+- 📝 I regularly write articles on [https://ravitejabhagavatula.me/](https://ravitejabhagavatula.in/)
 
 - 💬 Ask me about **JAVA,HTML,JAVASCRIPT**
 
