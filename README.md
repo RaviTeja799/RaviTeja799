@@ -1,34 +1,75 @@
-<h1 align="center">Hi 👋, I'm Ravi Teja</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raviteja799&label=Profile%20views&color=0e75b6&style=flat" alt="raviteja799" /> </p>
+[![An image of @raviteja799's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raviteja799)](https://holopin.io/@raviteja799)
 
-- 🔭 I’m currently working on [JARVIS](https://github.com/KrishnaSrinivas-24/JARVIS)
+# Hi 👋, I'm Ravi Teja Bhagavatula
 
-- 🌱 I’m currently learning **JAVA,C++,DSA,OOPS,CLOUD TECHNOLOGIES**
+### A Passionate AI/ML Engineer & Full Stack Developer
 
-- 👯 I’m looking to collaborate on **python based projects**
+[![GitHub](https://img.shields.io/badge/GitHub-RaviTeja799-181717?style=flat&logo=github)](https://github.com/RaviTeja799)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi%20Teja-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ravi-teja-bhagavatula/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ravitejabhagavatula.in-FF5722?style=flat&logo=google-chrome)](https://ravitejabhagavatula.in/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](mailto:bhraviteja799@gmail.com)
 
-- 🤝 I’m looking for help with **SINK**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/RaviTeja799?tab=repositories)
+**Computer Science Student** at Gayatri Vidya Parishad College of Engineering. I am exploring the intersection of **Artificial Intelligence**, **Cloud Computing**, and **Mobile/Web Development**.
 
-- 📝 I regularly write articles on [https://ravitejabhagavatula.me/](https://ravitejabhagavatula.in/)
+</div>
 
-- 💬 Ask me about **JAVA,HTML,JAVASCRIPT**
+---
 
-- 📫 How to reach me **bhraviteja799@gmail.com**
+## 🛠️ Skills & Technologies
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ravi-teja-bhagavatula-b45275290/](https://www.linkedin.com/in/ravi-teja-bhagavatula-b45275290/)
+<div align="center">
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" /></a>
+<a href="https://en.wikipedia.org/wiki/C_programming_language" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" /></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="40" height="40" alt="Kotlin" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
+<br/><br/>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
+<br/><br/>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="40" height="40" alt="TensorFlow" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="40" height="40" alt="Google Cloud" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" /></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
+</div>
 
-- ⚡ Fun fact **I write better code with a coffee in hand!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ravi teja bhagavatula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi teja bhagavatula" height="30" width="40" /></a>
-<a href="https://fb.com/bhgavatula ravi teja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhgavatula ravi teja" height="30" width="40" /></a>
-<a href="https://instagram.com/ravi teja bhagavatula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi teja bhagavatula" height="30" width="40" /></a>
-</p>
+## 🚀 Key Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <
+| Project | Description | Tech Stack |
+|---|---|---|
+| **TransIntelliFlow** | Enterprise-grade fraud detection system for BFSI using AI-assisted explainability and realistic simulations. | Python, ML, AI |
+| **AI Health Symptom Checker** | Intelligent chatbot analyzing symptoms using Mistral 70b LLM, deployed on IBM Cloud for scalable inference. | Python, IBM Watson, Mistral |
+| **AI Garbage Detection** | Cross-platform app classifying 30+ waste types using a lightweight CNN model optimized for edge devices. | TensorFlow Lite, Kotlin, Python |
+
+---
+
+## 💼 Experience & Education
+
+**AI and Cloud Intern | Edunet (IBM)**
+*July 2025 - Aug 2025*
+* Developed an AI Health Symptom Checker using Mistral 70b and IBM Watson services.
+
+**B.Tech in Computer Science**
+*Gayatri Vidya Parishad College of Engineering (Autonomous) | 2023 - 2027*
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=RaviTeja799&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
